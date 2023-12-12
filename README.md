@@ -1,14 +1,22 @@
 # Hackintosh-X79--e5-2696-v2-1050ti-monterey
 macOS 12 Gtx1050ti Xcode runs fine :D
+
 How do you think when people run Xcode on VMware
+
 Just some stupid jealous to critics :D
+
 Any one show me his Xcode project using Metal Framework , or just some stupid bookworms :D
+
 Many stupid guys said Nvidia Web driver died blo bla.....
+
 The problem is to Hackintosh or to NOT Hackintosh :D
+
 What to demonstrate here. Reading proficiency , or handon experience ?
-Scam ba la bo lo.....
-:D :D
+
+Scam ba la bo lo.....:D :D
+
 Stupid is stupid
+
 GTX1050TI E5 2696 v2 X79 Monterey
 
 ![image](https://github.com/sonvirgo/Hackintosh-X79--e5-2696-v2-1050ti-monterey/assets/10823037/b8a90b84-327b-413e-90e0-3aad38e00353)
