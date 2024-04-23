@@ -1,4 +1,4 @@
-# Hackintosh-X79--e5-2696-v2-1050ti-monterey
+# Hackintosh-X79-e5-2696-v2-GTX1050ti-monterey
 macOS 12 Gtx1050ti Xcode runs fine :D Full QE/CI
 
 Metal is not an issue if your dont need Metal. Many macOS ecosystem softwares still run on OpenGL. Even Xcode itself runs on OpenGL.
